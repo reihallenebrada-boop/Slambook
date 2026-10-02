@@ -1,0 +1,2 @@
+# Slambook
+For project purposes
